@@ -95,7 +95,7 @@ export default function FlashSaleSection() {
       <div className="container mx-auto">
         <div className="flex items-center justify-between max-md:block mb-8">
           <div className="space-y-1">
-            <div className="text-red-500 font-medium">Today's</div>
+            <div className="text-red-500 font-medium">Todays</div>
             <h2 className="text-2xl font-bold">Flash Sales</h2>
           </div>
           <div className="flex items-center gap-4">

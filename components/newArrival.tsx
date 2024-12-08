@@ -48,7 +48,7 @@ export default function NewArrival() {
                   fill
                 />
                 <div className="absolute inset-0 p-6 flex flex-col justify-end bg-gradient-to-t from-black/60 to-transparent">
-                  <h3 className="text-xl font-bold mb-2">Women's Collections</h3>
+                  <h3 className="text-xl font-bold mb-2">Womens Collections</h3>
                   <p className="text-sm text-gray-200 mb-4">
                     Featured woman collections that give you another vibe.
                   </p>

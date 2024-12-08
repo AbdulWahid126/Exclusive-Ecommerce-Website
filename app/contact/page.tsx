@@ -1,4 +1,4 @@
-import { PhoneCall, Mail, Clock } from 'lucide-react'
+import { PhoneCall, Mail } from 'lucide-react'
 
 export default function Contact() {
   return (
